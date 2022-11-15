@@ -20,7 +20,7 @@ import streamlit as st
 ##########################
 # PART 1
 ##########################
-st.title("Day 1")
+st.title("Day 10")
 st.write("Hello DataLabs! Let's have a look at some of the components together.")
 
 st.markdown("""---""")
